@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_green">#1abc9c</color>
+    <color name="theme_green_dark">#16a085</color>
+    <color name="theme_gray">#ecf0f1</color>
+    <color name="theme_gray_dark">#bdc3c7</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>
