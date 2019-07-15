@@ -18,7 +18,7 @@ import com.example.ir.MainActivity;
 
 
 public class AlarmReceiver extends BroadcastReceiver {
-    final static String ACTION_REMINDER = "com.mirhoseini.diabetes.reminder.alarm.REMINDER";
+    final static String ACTION_REMINDER = "com.ShaikJamil.diabetes.reminder.alarm.REMINDER";
     final private String tag = this.getClass().getName();
     int requestCode = 0;
 

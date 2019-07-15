@@ -14,7 +14,7 @@ import com.example.ir.R;
 
 public class MainActivity extends ParentActionBarMainActivity {
 
-    public static final String ACTION_LOG_INSULIN_NOTIFICATION = "com.mirhoseini.diabetes.reminder.prefs.INSULIN_REMINDER_NOTIFICATION";
+    public static final String ACTION_LOG_INSULIN_NOTIFICATION = "com.ShaikJamil.diabetes.reminder.prefs.INSULIN_REMINDER_NOTIFICATION";
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position,

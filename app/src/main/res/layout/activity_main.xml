@@ -7,13 +7,4 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     tools:ignore="MergeRootFrame"
-    android:orientation="horizontal">
-
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        app:srcCompat="@drawable/ic_launcher"
-        android:contentDescription="@string/todo" />
-</LinearLayout>
+    android:orientation="horizontal"/>

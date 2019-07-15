@@ -37,7 +37,7 @@
 
         <receiver android:name="com.example.ir.AlarmReceiver">
             <intent-filter>
-                <action android:name="com.mirhoseini.diabetes.reminder.alarm.REMINDER" />
+                <action android:name="com.ShaikJamil.diabetes.reminder.alarm.REMINDER" />
             </intent-filter>
         </receiver>
         <receiver android:name="com.example.ir.AlarmSetter">
